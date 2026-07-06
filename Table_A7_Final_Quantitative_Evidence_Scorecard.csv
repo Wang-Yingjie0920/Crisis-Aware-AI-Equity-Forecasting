@@ -1,0 +1,12 @@
+﻿Evidence Dimension,Main Result,Interpretation,Report Use
+Long-history sample,"Pooled panel contains 27,648 observations",The project uses a long-history design rather than a short post-2000 sample.,Introduction / Data section
+S&P 500 coverage,"17,447 observations, beginning around 1957 where available",The S&P 500 layer captures broad U.S. equity-market regimes.,Data section
+Nasdaq-100 coverage,"10,201 observations, beginning around 1985/1986 where available",The Nasdaq-100 layer captures technology- and growth-oriented market dynamics.,Data section
+Best directional model,Tree-based layer reaches about 65.22% mean directional accuracy,Nonlinear models provide the strongest directional classification evidence among forecasting layers.,Empirical results
+Baseline improvement,Tree-based model improves over baseline by about 5.89 percentage points,Advanced forecasting layers add predictive value relative to simple benchmark models.,Empirical results
+Crisis-aware routing,Crisis-aware router improves over baseline by about 5.17 percentage points,Conditional model selection contributes to predictive performance.,Model architecture / empirical results
+Backtesting relevance,Top signal Sharpe evidence is around 1.1+ for selected Nasdaq-100 strategies,"The backtesting layer provides economic relevance checks, not guaranteed trading profitability.",Backtesting section
+"Conformal uncertainty, alpha = 0.05",Coverage gap is close to nominal coverage in validation and test groups,The 95% nominal interval design provides useful calibration evidence.,Uncertainty section
+"Conformal uncertainty, alpha = 0.10",Test coverage gap is materially negative,The 90% nominal interval setting is less stable and should be treated as a limitation.,Uncertainty / limitations
+Mechanism interpretation,"Inflation, momentum, crisis regime, volatility, and yield-curve mechanisms are among the top contributors",Model outputs can be linked to interpretable macro-financial channels.,Mechanism section
+Research interpretation,Predictive and mechanism-consistent evidence,"The project should not be written as causal proof, financial advice, or guaranteed profitability.",Abstract / conclusion

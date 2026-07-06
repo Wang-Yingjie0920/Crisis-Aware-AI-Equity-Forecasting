@@ -1,0 +1,10 @@
+﻿Project Layer,Project Days,Core Output,Final Report Section
+Data foundation,Day1-Day13,"Long-history asset panel, macro-financial features, forecasting targets, chronological split",Data and Variable Construction
+Baseline models,Day14,Baseline regression and classification benchmarks,Forecasting System Design
+Machine learning models,Day15-Day16,Tree-based and boosted-gradient forecasting models,Forecasting System Design / Empirical Results
+Ensemble and routing,Day17-Day20,"Ensemble learning, crisis-aware dynamic weighting, model routing, stacking meta-learner",Forecasting System Design / Empirical Results
+Uncertainty calibration,Day21,Conformal prediction and coverage validation,Uncertainty Calibration
+Backtesting,Day22-Day23,"Uncertainty-aware backtesting, benchmark tests, statistical inference",Backtesting and Statistical Inference
+Mechanism interpretation,Day24-Day25,"Feature groups, mechanism decomposition, H1-H4 hypothesis testing",Mechanism Interpretation
+Paper-ready package,Day26-Day27,"Tables, figure inventory, working paper manuscript draft",Full report backbone
+Paper packaging,Day28-Day36,"Table/figure roadmap, literature review, reproducibility appendix, robustness response, GitHub/application packaging, final audit",Appendix / references / robustness / final audit
